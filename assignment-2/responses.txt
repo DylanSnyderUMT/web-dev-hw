@@ -1,0 +1,9 @@
+Data is broken down to packets and sent as binary code, in this case through a fiber optic cable. This is reflected down the wire at the speed of light.
+
+An IP address is a basically a computers address much like a home address. The DNS is the Domain Name System, and it helps your computer find other things IP address.
+
+A Cookie is a piece of data a server sends to your computer so it can remember who you are.
+
+- domain Name
+- protocol
+- path
