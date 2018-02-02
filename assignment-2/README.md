@@ -4,6 +4,6 @@ version control system basically tracks what, when, and why you did something to
 
 My [Responses](./responses.txt)
 
-My work cycle for this assignment was to first work out the file in Atom. Then do to Github desktop. I can see what is new and what changes have happened. I can then send those to Github website. Then i can double check the site and see it there.
+My work cycle for this assignment was to first work out the file in Atom. Then do to Github desktop. I can see what is new and what changes have happened. I can then send those to Github website. Then I can double check the site and see it there.
 
 ![image of my Atom Editor](./images/screenshotHW.png)
