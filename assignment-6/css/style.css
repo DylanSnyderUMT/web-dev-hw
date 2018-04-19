@@ -1,0 +1,54 @@
+body {
+  background-color: #B9FBF7;
+  height: 800px;
+  width: 800px;
+
+}
+
+.text {
+   color: #F9AD9D;
+   font-family: Arial;
+   font-size: 47px;
+
+}
+
+/*This is a note */
+
+.text {
+
+   font-size: 50px !important;
+
+}
+
+.picture {
+width: 200px; }
+
+.block-1{
+  background-color: #549AA3;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  left: 100px;
+  top: 200px;
+  opacity: 0.5;
+}
+
+.block-2{
+  background-color: #FCF4EA;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  left: 200px;
+  top: 300px;
+  opacity: 0.5;
+}
+
+.block-3{
+  background-color: #FEEDC0;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  left: 300px;
+  top: 400px;
+  opacity: 0.5;
+}
