@@ -1,0 +1,27 @@
+html
+body {
+    background-color: #AAB1C4;
+}
+h1 {padding-left: 50 px;
+padding-right: 50px;
+padding-top: 20px;}
+
+h2 {padding-left: 50 px;
+padding-right: 50 px;
+padding-top: 10 px;}
+
+h3 {padding-left: 50 px;
+padding-right: 50 px;
+padding-top: 10 px;}
+
+p {padding-left: 50 px;
+padding-right: 50 px;
+padding-top: 10 px}
+
+. button {font-size: 10 px;
+color: #353535
+}
+. button:active {color: #414658}
+. button:hover {color: #EDF7F4;
+font-style: oblique;}
+. button:visited {color: #414658}

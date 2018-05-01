@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('../fonts/Raleway-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('../fonts/Lora-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+h1{
+  font-family: 'Raleway-Regular', sans-serif;
+  font-weight: bold;
+  font-size: 6em;
+}
+
+h2{
+  font-family: 'Raleway-Regular', sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+h3{
+  font-family: 'Raleway-Regular', sans-serif;
+  font-weight: normal;
+  font-size: 1em
+}
+
+* {
+  letter-spacing: 0.5px;
+}
+
+p{
+  font-family: 'Lora-Regular', 'courier', serif;
+  font-weight: normal;
+  font-size: 1em;
+  text-align: center;
+}
