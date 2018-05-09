@@ -1,0 +1,101 @@
+@font-face {
+   font-family: 'AlfaSlabOne';
+   src: url('../fonts/AlfaSlabOne-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'NotoSans';
+   src: url('../fonts/NotoSans.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+font.scenetext {
+	font-family: 'Noto Sans', sans-serif;
+	src: url("./fonts/NotoSans.ttf");
+	font-size: 12;
+	color: #303f44;
+	font-weight: normal;
+	line-height: 15px;
+	word-spacing: 1.5px;
+}
+
+font.textbox {
+  font-family: 'Noto Sans', sans-serif;
+  src: url("./fonts/NotoSans.ttf");
+	font-size: 40;
+	color: #ffffff;
+	font-weight: bold;
+	line-height: 15px;
+	word-spacing: 1.5px;
+    font-style: italic;
+}
+
+font.textbox2 {
+  font-family: 'Noto Sans', sans-serif;
+  src: url("./fonts/NotoSans.ttf");
+	font-size: 26;
+	color: #303f44;
+	font-weight: bold;
+	line-height: 20px;
+	word-spacing: 1.5px;
+}
+
+font.filterqueentext {
+  font-family: 'Noto Sans', sans-serif;
+  src: url("./fonts/NotoSans.ttf");
+	font-size: 14;
+	color: #303f44;
+	font-weight: bold;
+	line-height: 20px;
+	word-spacing: 1.5px;
+}
+
+font.footer {
+	font-size: 20;
+	line-height: 20px;
+	word-spacing: 1.5px;
+}
+
+font.subheading{
+    font-family: 'Alfa Slab One', cursive;
+    src: url('./fonts/AlfaSlabOne-Regualar.ttf');
+	font-size: 62px;
+	color: #ed1701;
+}
+
+font.subheadingtext{
+  font-family: 'Noto Sans', sans-serif;
+  src: url("./fonts/NotoSans.ttf");
+	font-size: 15px;
+	color: #303f44;
+	letter-spacing: .065px;
+	line-height: 20px;
+	word-spacing: .5px;
+}
+
+font.toptext1{
+  font-family: 'Alfa Slab One', cursive;
+  src: url('./fonts/AlfaSlabOne-Regualar.ttf');
+	font-size: 72px;
+	color: #303f44;
+	letter-spacing: 2px;
+
+}
+
+font.toptext2{
+  font-family: 'Alfa Slab One', cursive;
+  src: url('./fonts/AlfaSlabOne-Regualar.ttf');
+	font-size: 72px;
+	color: #303f44;
+	letter-spacing: 1.5px;
+}
+
+font.toptext3{
+  font-family: 'Alfa Slab One', cursive;
+  src: url('./fonts/AlfaSlabOne-Regualar.ttf');
+	font-size: 47px;
+	color: #303f44;
+}
